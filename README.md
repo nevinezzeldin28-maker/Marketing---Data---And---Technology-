@@ -44,12 +44,14 @@ This project explores how marketing data and digital technologies can drive busi
 - Customer Data Platforms and Conversational Marketing tools are recommended for future stack enhancements.
 
 ## Screenshots
-*(Insert the following screenshots as referenced in the project instructions)*
-- 12-month reports snapshot showing timeframe and new users
-- Google Analytics device category donut chart
-- Engagement rate by acquisition channel
-- Item purchase and revenue breakdown
-- Demographic and technology segment comparisons
+### 1. Reports Snapshot
+[Reports Snapshot](https://github.com/nevinezzeldin28-maker/Marketing---Data---And---Technology-/blob/main/Marketing%20Data%20And%20Technology%20Project_page-0009.jpg)
+
+### 2. Device Category Donut Chart
+[Device Category Donut Chart](https://github.com/nevinezzeldin28-maker/Marketing---Data---And---Technology-/blob/main/Marketing%20Data%20And%20Technology%20Project_page-0011.jpg)
+
+### 3. Engagement Rate by Acquisition Channel
+[Engagement Rate by Channel](https://github.com/nevinezzeldin28-maker/Marketing---Data---And---Technology-/blob/main/Marketing%20Data%20And%20Technology%20Project_page-0012.jpg)
 
 ## Recommendations
 - Reallocate campaign budgets from low-ROAS campaigns to top performers (e.g., shift $10,000 to “Unlock the Power of Google” and “Gear Up with Google”).
